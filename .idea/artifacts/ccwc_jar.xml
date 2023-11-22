@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ccwc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ccwc_jar</output-path>
+    <root id="archive" name="ccwc.jar">
+      <element id="module-output" name="ccwc" />
+    </root>
+  </artifact>
+</component>
